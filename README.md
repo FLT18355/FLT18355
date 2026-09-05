@@ -9,11 +9,11 @@
 
 <!-- 按钮：使用了 Catppuccin Mocha 主题色的徽章 -->
 <p align="center">
-  <a href="https://github.com/FLT18355">
-    <img src="https://img.shields.io/badge/Catppuccin%20Portfolio%20→-1e1e2e?style=for-the-badge&logo=github&logoColor=cba6f7" />
+  <a href="flt18355.github.io">
+    <img src="https://img.shields.io/badge/Personal%20Website%20→-1e1e2e?style=for-the-badge&logo=github&logoColor=cba6f7" />
   </a>
   <a href="https://catppuccin.com/">
-    <img src="https://img.shields.io/badge/My%20Theme%20→-1e1e2e?style=for-the-badge&logo=palette&logoColor=f38ba8" />
+    <img src="https://img.shields.io/badge/Catppuccin%20→-1e1e2e?style=for-the-badge&logo=palette&logoColor=f38ba8" />
   </a>
 </p>
 
