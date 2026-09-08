@@ -21,8 +21,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FLT18355&label=Profile%20Views&color=cba6f7&style=flat" alt="Profile view counter" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=FLT18355&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLT18355&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
