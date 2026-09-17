@@ -4,7 +4,7 @@
 
 <!-- 图片横幅：请将下面的链接替换为你自己上传的图片链接 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FLT18355/FLT18355/main/assets/logo.png" width="100%" alt="Catppuccin Logo"/>
+  <img src="https://raw.githubusercontent.com/FLT18355/FLT18355/main/assets/logo.png" width="10%" alt="Catppuccin Logo"/>
 </p>
 
 <!-- 按钮：使用了 Catppuccin Mocha 主题色的徽章 -->
