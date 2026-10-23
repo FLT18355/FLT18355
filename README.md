@@ -37,24 +37,24 @@
 
 <div align="center">
   <!-- OS & System -->
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Openbox-1e1e2e?style=for-the-badge&logo=xorg&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fish_Shell-1e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-313244?style=for-the-badge&logo=arch-linux&logoColor=89b4fa" />
+  <img src="https://img.shields.io/badge/Openbox-313244?style=for-the-badge&logo=xorg&logoColor=cdd6f4" />
+  <img src="https://img.shields.io/badge/Fish_Shell-313244?style=for-the-badge&logo=gnu-bash&logoColor=a6e3a1" />
   
   <br>
   
   <!-- Languages & Dev -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-313244?style=for-the-badge&logo=python&logoColor=f9e2af" />
+  <img src="https://img.shields.io/badge/Rust-313244?style=for-the-badge&logo=rust&logoColor=fab387" />
+  <img src="https://img.shields.io/badge/TypeScript-313244?style=for-the-badge&logo=typescript&logoColor=89b4fa" />
+  <img src="https://img.shields.io/badge/Astro-313244?style=for-the-badge&logo=astro&logoColor=f38ba8" />
   
   <br>
   
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neovim-313244?style=for-the-badge&logo=neovim&logoColor=a6e3a1" />
+  <img src="https://img.shields.io/badge/Git-313244?style=for-the-badge&logo=git&logoColor=f38ba8" />
+  <img src="https://img.shields.io/badge/Docker-313244?style=for-the-badge&logo=docker&logoColor=89b4fa" />
 </div>
 
 ---
