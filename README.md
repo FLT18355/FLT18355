@@ -71,14 +71,20 @@
 ### 📊 GitHub 数据看板
 
 <div align="center">
-  <!-- 数据卡片 (使用 Catppuccin Mocha 颜色参数定制) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FLT18355&show_icons=true&theme=catppuccin_mocha&hide_border=true&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e" alt="FLT18355's GitHub Stats" />
+  <!-- 数据卡片：使用官方色板 + 隐藏不必要的元素让排版更干净 -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FLT18355&show_icons=true&hide_border=true&hide_title=true&rank_icon=github&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&border_radius=10" alt="FLT18355's GitHub Stats" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLT18355&layout=compact&theme=catppuccin_mocha&hide_border=true&title_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLT18355&layout=compact&hide_border=true&hide_title=true&langs_count=8&title_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e&border_radius=10" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FLT18355&theme=catppuccin_mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f38ba8&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=a6e3a1&sideLabels=cdd6f4&dates=6c7086" alt="GitHub Streak" />
+  <!-- 连续贡献卡片：使用 streak-stats 官方推荐的参数，统一背景色和圆角 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FLT18355&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f38ba8&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=a6e3a1&sideLabels=cdd6f4&dates=6c7086&border_radius=10" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <!-- 可选：增加一个活动图，让页面更丰富 (需要换成你自己的 GitHub 用户名) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FLT18355&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=f38ba8&area_color=313244&title_color=cba6f7&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
