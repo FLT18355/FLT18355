@@ -71,20 +71,16 @@
 ### 📊 GitHub 数据看板
 
 <div align="center">
-  <!-- 数据卡片：使用官方色板 + 隐藏不必要的元素让排版更干净 -->
+  <!-- 左侧：基础 Stats 卡片 -->
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FLT18355&show_icons=true&hide_border=true&hide_title=true&rank_icon=github&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&border_radius=10" alt="FLT18355's GitHub Stats" />
   
+  <!-- 右侧：Top Languages 卡片 -->
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLT18355&layout=compact&hide_border=true&hide_title=true&langs_count=8&title_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e&border_radius=10" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <!-- 连续贡献卡片：使用 streak-stats 官方推荐的参数，统一背景色和圆角 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FLT18355&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f38ba8&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=a6e3a1&sideLabels=cdd6f4&dates=6c7086&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <!-- 可选：增加一个活动图，让页面更丰富 (需要换成你自己的 GitHub 用户名) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FLT18355&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=f38ba8&area_color=313244&title_color=cba6f7&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
+  <!-- 底部：连续贡献卡片 (使用 demolab 官方稳定镜像，不用 Heroku) -->
+  <img src="https://streak-stats.demolab.com/?user=FLT18355&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f38ba8&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=a6e3a1&sideLabels=cdd6f4&dates=6c7086&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
