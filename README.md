@@ -3,6 +3,7 @@
   
   <!-- 新增的头图 -->
   <img src="assets/assets_header.svg" alt="FLT18355 Header Banner" width="100%" />
+  <h3>目前使用的Banner模仿了Andy8647的风格</h3>
 
   <h1>Hello, I'm FLT18355 👋</h1>
   <h3>A Catppuccin enjoyer 🎨 & Arch Linux tinkerer 🐧</h3>
