@@ -1,18 +1,9 @@
 <!-- FLT18355 Profile README -- Catppuccin Mocha Theme -->
 <div align="center">
-
-  <!-- 顶部 Logo 与标题 -->
-  <h3 align="center">
-    <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
-    <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-    Catppuccin
-    <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-  </h3>
-    
-  <h6 align="center">
-    <a href="https://catppuccin.com/pronunciation.mp3">/ˌkætpʊˈtʃiːn/</a>
-  </h6>
   
+  <!-- 新增的头图 -->
+  <img src="assets/assets_header.svg" alt="FLT18355 Header Banner" width="100%" />
+
   <h1>Hello, I'm FLT18355 👋</h1>
   <h3>A Catppuccin enjoyer 🎨 & Arch Linux tinkerer 🐧</h3>
 
